@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "0.4.68",
-          "update_link": "https://github.com/yiyangbyts/twintext-releases/releases/download/v0.4.68/twintext%20for%20zotero.xpi",
+          "update_link": "https://github.com/yiyangbyts/twintext-releases/releases/download/v0.4.68/twintext.for.zotero.xpi",
           "update_hash": "sha256:1962eb869fbca4d4dc24a8b6eabffd733a4768db028afc8cf7eb49a6b95fc607",
           "applications": {
             "zotero": {
