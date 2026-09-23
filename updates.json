@@ -3,9 +3,9 @@
     "twintext@twintext.plugin": {
       "updates": [
         {
-          "version": "0.4.90",
-          "update_link": "https://github.com/yiyangbyts/twintext-releases/releases/download/v0.4.90/twintext.xpi",
-          "update_hash": "sha256:0e8c403655a4911dd7193a6b45db4f5e3316483d6f0a43dea217b7b1dc6553c1",
+          "version": "0.4.91",
+          "update_link": "https://github.com/yiyangbyts/twintext-releases/releases/download/v0.4.91/twintext.xpi",
+          "update_hash": "sha256:5dabf6fc3e854d2f2e3a508aacc89a0c2a265f7f019ecf5e8c9b6d676acd9bb4",
           "applications": {
             "zotero": {
               "strict_min_version": "10.0",
